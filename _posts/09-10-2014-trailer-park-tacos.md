@@ -14,4 +14,4 @@ color: yellow
 - Simulated corn
 - Artisanal augula
 - Salsa
-- Onions
+- White Onions
